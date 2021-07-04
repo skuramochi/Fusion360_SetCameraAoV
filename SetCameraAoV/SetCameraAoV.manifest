@@ -1,0 +1,11 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"skuramochi",
+	"description":	{
+		"":	"Set the camera's angle of view or focal length."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true,
+	"version":	"0.0.1"
+}
